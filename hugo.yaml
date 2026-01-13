@@ -39,10 +39,9 @@ menu:
       type: tags
       weight: 40
     - name: github
+      pageRef: github
       weight: 50
-      url: "https://github.com/SomePati/blog"
-      params:
-        icon: github
+      url: "https://github.com/SomePati/somepati.github.io/"
 
 outputs:
   home:
